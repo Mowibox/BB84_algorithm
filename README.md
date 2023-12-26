@@ -7,7 +7,7 @@ The provided code is a Python simulation based on the BB84 protocol. The protoco
 ## Protocol Explanation
 
 **Quantum Bits (Qubits) Generation (Alice) :**
-- Alice generates a stream of qubits in random states (0 or 1) and encodes each qubit with one of two possible bases: either the rectilinear basis (+, x) or the diagonal basis (↗, ↖).
+- Alice generates a stream of qubits in random states (0 or 1) and encodes each qubit with one of two possible bases: either the rectilinear basis (+, x) or the diagonal basis (↗️, ↖️).
 - The choice of basis for encoding the qubits is random for each qubit.
 
  **Eavesdropping (Eve):**
